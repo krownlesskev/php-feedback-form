@@ -9,6 +9,10 @@
         <input type="text" class="form-control" id="name" placeholder="Enter your name">
     </div>
     <div class="mb-3">
+        <label for="email" class="form-label">Email</label>
+        <input type="email" class="form-control" id="email" name="email" placeholder="Enter your email">
+    </div>
+    <div class="mb-3">
         <label for="body" class="form-label">Feedback</label>
         <textarea name="body" id="body" class="form-control" placeholder="Enter your feedback"></textarea>
     </div>
